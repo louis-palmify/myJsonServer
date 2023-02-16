@@ -1,0 +1,9 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "permission":{"app":"ab","task":"ab","create":false,"read":true,"update":false,"delete":true}
+}
