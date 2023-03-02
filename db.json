@@ -5,5 +5,5 @@
       "title": "hello"
     }
   ],
-  "permission":{"app":"ab","task":"code_setting","create":false,"read":true,"update":true,"delete":true}
+  "permission":{"app":"ab","task":"code_setting","create":true,"read":true,"update":true,"delete":true}
 }
